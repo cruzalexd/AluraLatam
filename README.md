@@ -8,3 +8,5 @@ para ejecutar el sitema poner lo siguiente:
 ```npm install react```
 
 Sistema de registro 2
+
+Sistema de registro 3 cambiado desde VSC
